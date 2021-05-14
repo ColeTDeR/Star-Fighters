@@ -5,7 +5,6 @@ I have changed some elements of the game, as well as added my own sound afects a
 CONTROLS: 
 
 FIRST PLAYER:
-
 WASD - Move ship, 
 Left ctrl - Shoot
 
