@@ -4,10 +4,10 @@ I have changed some elements of the game, as well as added my own sound afects a
 
 CONTROLS: 
 
-FIRST PLAYER:
+First player:
 WASD - Move ship, 
 Left ctrl - Shoot
 
-SECOND PLAYER:
+Second player:
 Arrow keys - Move ship,
 Right ctrl - Shoot
