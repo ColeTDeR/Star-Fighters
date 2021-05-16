@@ -1,5 +1,5 @@
 # Star-Fighters
-Created with Teck With Tim's Pygame tutorial.
+Created with Tech With Tim's Pygame tutorial.
 I have changed some elements of the game, as well as added my own sound afects and added music. In the future, I plan on creating my own art for the game as well.
 
 REQUIREMENTS:
