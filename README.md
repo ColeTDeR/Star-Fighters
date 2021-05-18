@@ -3,12 +3,22 @@ Created with Tech With Tim's Pygame tutorial.
 I have changed some elements of the game, as well as added my own sound afects and added music. In the future, I plan on creating my own art for the game as well.
 
 REQUIREMENTS:
+Python 3 and Pygame 
 
-Windows PC AND/OR Python 3 and Pygame 
+You can download Python here: https://www.python.org/downloads/
+To download Pygame, go into your command line (PowerShell on Windows, Terminal on MacOS) and type:
+
+pip install pygame
+
+If you are on MacOS an that didn't work, try:
+
+pip3 install pygame
+
+And wait for it to install.
 
 TO OPEN:
 
-If you are using windows, just use the executable (.exe). If you are running MacOS or Linux, you must first download Python 3 and Pygame, then run the Python file (.pyw).
+Open the .pyw file. Don't take this file out of its directory.
 
 CONTROLS: 
 
