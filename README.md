@@ -2,7 +2,7 @@
 Created with Tech With Tim's Pygame tutorial.
 I have changed some elements of the game, as well as added my own sound afects and added music. In the future, I plan on creating my own art for the game as well.
 
-REQUIREMENTS:
+Requirements:
 Python 3 and Pygame 
 
 You can download Python here: https://www.python.org/downloads/
@@ -16,11 +16,10 @@ pip3 install pygame
 
 And wait for it to install.
 
-TO OPEN:
-
+To Play:
 Open the .pyw file. Don't take this file out of its directory.
 
-CONTROLS: 
+Controls: 
 
 First player:
 WASD - Move ship, 
